@@ -9,6 +9,7 @@ We've put together a brief tutorial on  [instructables](https://www.instructable
 The arduino source code relies on the following libraries
 * readiness.io (coming soon)
 * [ticker](https://github.com/esp8266/Arduino/tree/master/libraries/Ticker)
+* [DHT](https://github.com/adafruit/DHT-sensor-library)
 
 
 ### Basic Wiring Diagram
